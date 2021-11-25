@@ -11,6 +11,6 @@ You should download these large files from pypi manually.
 249M mkl-2019.0-py2.py3-none-manylinux1_x86_64.whl  
 137M xgboost-0.90-py2.py3-none-manylinux1_x86_64.whl  
 
-You can install the packages by this command.
+You can install the packages by this command.  
 `pip install --no-index --find-links=./packages -r requirements-minimum.txt`
 
