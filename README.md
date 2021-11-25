@@ -12,5 +12,5 @@ You should download these large files from pypi manually.
 137M xgboost-0.90-py2.py3-none-manylinux1_x86_64.whl  
 
 You can install the packages by this command.
-`pip install --no-index --find-links=./packages -r requirements.txt`
+`pip install --no-index --find-links=./packages -r requirements-minimum.txt`
 
